@@ -5,7 +5,7 @@ sidebar_label: Releted Projects
 ---
 
 ## [usiusi360/vulsrepo](https://github.com/usiusi360/vulsrepo)
-VulsRepo is a visualizer with json report outputs from Vuls.
+VulsRepo is a visualizer with json reports from Vuls.
 
 ## [k1LoW/ssh_config_to_vuls_config](https://github.com/k1LoW/ssh_config_to_vuls_config)
 `ssh_config_to_vuls_config` is a converter from ssh_config to Vuls's TOML formatted config.
